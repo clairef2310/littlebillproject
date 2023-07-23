@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+/*style des formulaires*/
+.formulaire{
+  background-color: white;
+  box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.2);
+  width: 50%;
+  margin-top: 15%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+.divIn{
+  padding: 2%;
+}
+
+button{
+  margin-bottom: 5%;
+  width: 10%;
+}
+
+table{
+  width: 75%;
+  margin-left: 5%
+}
